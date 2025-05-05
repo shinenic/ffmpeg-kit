@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'fork-ffmpeg-kit-ios'
-  s.version          = '6.0.2'
+  s.version          = '6.1.0'
   s.summary          = 'FFmpeg iOS Binaries'
   s.homepage         = 'https://github.com/shinenic/ffmpeg-kit/new/audio-release'
   s.license          = { :type => "LGPL-3.0" }
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   # Link to the zip file on your GitHub release
   s.source = {
-    :http => 'https://github.com/shinenic/ffmpeg-kit/releases/download/v6.1/ffmpegkit-ios.xcframework.zip',
+    :http => 'https://github.com/shinenic/ffmpeg-kit/releases/download/v6.1/ffmpeg-kit-ios-audio.zip',
     :type => 'zip'
   }
   s.vendored_frameworks = [
