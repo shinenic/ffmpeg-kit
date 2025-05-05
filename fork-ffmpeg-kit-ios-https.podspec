@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   # Link to the zip file on your GitHub release
   s.source = {
-    :http => 'https://github.com/shinenic/ffmpeg-kit/releases/download/v6.1/ffmpeg-kit-ios-audio.zip',
+    :http => 'https://github.com/shinenic/ffmpeg-kit/releases/download/v6.1/ffmpeg-kit-audio-6.0-ios-xcframework.zip',
     :type => 'zip'
   }
   s.vendored_frameworks = [
