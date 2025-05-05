@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'fork-ffmpeg-kit-ios'
-  s.version          = '6.1.0'
+  s.version          = '6.0.2'
   s.summary          = 'FFmpeg iOS Binaries'
   s.homepage         = 'https://github.com/shinenic/ffmpeg-kit/new/audio-release'
   s.license          = { :type => "LGPL-3.0" }
